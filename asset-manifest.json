@@ -1,12 +1,13 @@
 {
   "files": {
-    "main.css": "/The-Squids/static/css/main.506e4f7e.css",
-    "main.js": "/The-Squids/static/js/main.7365d72f.js",
+    "main.css": "/The-Squids/static/css/main.50ad999d.css",
+    "main.js": "/The-Squids/static/js/main.ab7d03db.js",
     "static/js/787.b4507953.chunk.js": "/The-Squids/static/js/787.b4507953.chunk.js",
     "static/media/rain.gif": "/The-Squids/static/media/rain.6b796b572a78035a1394.gif",
     "static/media/slide3.gif": "/The-Squids/static/media/slide3.bc9d921cb3e558dcef77.gif",
+    "static/media/home-back-mobile.gif": "/The-Squids/static/media/home-back-mobile.d07a08aa4de7177a341b.gif",
     "static/media/home-back.gif": "/The-Squids/static/media/home-back.5fd060cdcd57670f389f.gif",
-    "static/media/clouds.gif": "/The-Squids/static/media/clouds.c4dc6dcec6de10de6cb0.gif",
+    "static/media/clouds.gif": "/The-Squids/static/media/clouds.600917fcac2019cb3e9f.gif",
     "static/media/slide4.gif": "/The-Squids/static/media/slide4.145f73d417f5f694faad.gif",
     "static/media/team-back-air.png": "/The-Squids/static/media/team-back-air.59be4c6ef92c340b0383.png",
     "static/media/slide2.gif": "/The-Squids/static/media/slide2.4df44485520aa7e75aab.gif",
@@ -16,7 +17,6 @@
     "static/media/barrels.gif": "/The-Squids/static/media/barrels.ceb21ad562952184027e.gif",
     "static/media/slide0.gif": "/The-Squids/static/media/slide0.95e433f60c18211c3e6c.gif",
     "static/media/slide1.gif": "/The-Squids/static/media/slide1.9f962f4062429db3fc7d.gif",
-    "static/media/home-back-mobile.gif": "/The-Squids/static/media/home-back-mobile.f57c16e8ddad84c6d53f.gif",
     "static/media/team-back-whithout-air.png": "/The-Squids/static/media/team-back-whithout-air.be32a7d4101353877136.png",
     "static/media/header-logo.svg": "/The-Squids/static/media/header-logo.dc500b5424ca26ae085cdbb43cd88926.svg",
     "static/media/team-person-h.png": "/The-Squids/static/media/team-person-h.6bb7dfac860de638c714.png",
@@ -60,12 +60,12 @@
     "static/media/team-card-default-mobile.svg": "/The-Squids/static/media/team-card-default-mobile.66d452127beea9449f41.svg",
     "static/media/team-card-hover-mobile.svg": "/The-Squids/static/media/team-card-hover-mobile.7995b56ba955fef75aed.svg",
     "index.html": "/The-Squids/index.html",
-    "main.506e4f7e.css.map": "/The-Squids/static/css/main.506e4f7e.css.map",
-    "main.7365d72f.js.map": "/The-Squids/static/js/main.7365d72f.js.map",
+    "main.50ad999d.css.map": "/The-Squids/static/css/main.50ad999d.css.map",
+    "main.ab7d03db.js.map": "/The-Squids/static/js/main.ab7d03db.js.map",
     "787.b4507953.chunk.js.map": "/The-Squids/static/js/787.b4507953.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.506e4f7e.css",
-    "static/js/main.7365d72f.js"
+    "static/css/main.50ad999d.css",
+    "static/js/main.ab7d03db.js"
   ]
 }
