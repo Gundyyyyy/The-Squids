@@ -1,7 +1,6 @@
 import React, {useState} from "react";
 import style from "./faq.module.scss";
 import barrels from "../../assets/gif/barrels.gif";
-import clouds from "../../assets/png/faq-clouds.png";
 import clsx from "clsx";
 import {Btn} from "./Btn/Btn";
 
@@ -37,7 +36,6 @@ export const Faq = () => {
         >
             <div className={style.inner}>
                 <img src={barrels} alt="" className={style.barrels}/>
-                <img src={clouds} alt="" className={style.clouds}/>
 
                 <h2 className={style.title} id="Faq">FAQ</h2>
                 <div className={style.items}>

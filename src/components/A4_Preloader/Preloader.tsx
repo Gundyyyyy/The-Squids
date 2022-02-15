@@ -4,7 +4,7 @@ import preloader from "../../assets/svg/preloader.svg"
 import clsx from "clsx";
 
 export const Preloader = () => {
-    const duration = 2000;
+    const duration = 1000;
     const durationStep = Math.floor(duration / 100);
     const [time, setTime] = useState(0);
     const [timeIsOver, setTimeIsOver] = useState(false);

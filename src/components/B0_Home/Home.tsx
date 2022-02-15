@@ -26,6 +26,8 @@ export const Home: FC<IHome> = ({onClickHandler}) => {
                     onMouseLeave={()=>setDisabled(true)}
                     onMouseOver={()=>setDisabled(false)}>Only a game away of living debt free</h1>
                 </GlitchText>
+                
+
                 <ButtonLink imgDefault={enterD}
                             imgHover={enterH}
                             imgClick={enterC}

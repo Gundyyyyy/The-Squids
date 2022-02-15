@@ -16,6 +16,7 @@ import backAir from "../../assets/png/team-back-air.png";
 import {useMediaQuery} from "@mui/material";
 import {Preloader} from "../A4_Preloader/Preloader";
 import {SliderJS2} from "../B2_Slider/SliderJS2";
+import clouds from "../../assets/gif/clouds.gif";
 
 export const App = () => {
     const matchesDesktop = useMediaQuery('(min-width:1160px)');
