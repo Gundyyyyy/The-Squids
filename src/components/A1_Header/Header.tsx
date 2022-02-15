@@ -1,7 +1,7 @@
 import React, {FC} from "react";
 import {HashLink} from 'react-router-hash-link';
 import style from "./header.module.scss";
-import logo from "../../assets/svg/header-logo.svg";
+import logo from "../../assets/png/logo_withoutSquid_4X.png";
 import {SocialIcon} from "../common/SocialIcon/SocialIcon";
 
 import {svgIcons} from "../../assets/svg/svgIcons";
