@@ -1,0 +1,70 @@
+@import "../../assets/scss/app.scss";
+
+.home {
+  background-image: url("../../assets/gif/home-back.gif");
+  background-repeat: no-repeat;
+  background-position: top;
+  background-size: cover;
+  padding: 183px 16px 25px;
+  box-sizing: border-box;
+  min-height: 100vh;
+  @media only screen and (max-width: 390px){
+    background-image: url("../../assets/gif/home-back-mobile.gif");
+  }
+  @include desktop() {
+
+    //@include center();
+    padding-top: 283px;
+  }
+
+  .innerWrapper {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    @media only screen and (max-width: 640px) {
+      position: absolute;
+      bottom: 35px;
+      left: 0;
+      right: 0;
+    }
+    .title {
+      @include PressStart();
+      font-size: 22px;
+      line-height: 145%;
+      text-align: center;
+      width: 288px;
+
+      @include desktop() {
+        font-size: 38px;
+        line-height: 150%;
+        width: 700px;
+      }
+    }
+
+    .enterButton {
+      width: 116px;
+      height: 48px;
+      margin-top: 72px;
+
+      @include desktop() {
+        width: 192px;
+        height: 80px;
+        margin-top: 82px;
+      }
+    }
+
+    .icons {
+      @include onlyMobile(flex) {
+        justify-content: center;
+        margin-top: 72px;
+
+        .icon {
+          &:not(:first-child) {
+            margin-left: 32px;
+          }
+        }
+
+      }
+    }
+  }
+}
