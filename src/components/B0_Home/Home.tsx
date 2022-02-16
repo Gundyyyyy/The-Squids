@@ -2,9 +2,9 @@ import React, {FC,useState} from "react";
 import style from "./home.module.scss"
 import background from "../../assets/gif/home-back.gif";
 import {SocialIcon} from "../common/SocialIcon/SocialIcon";
-import enterD from "../../assets/svg/buttons/enter-d.svg";
-import enterH from "../../assets/svg/buttons/enter-h.svg";
-import enterC from "../../assets/svg/buttons/enter-c.svg";
+import enterD from "../../assets/png/buttons/button main.png";
+import enterH from "../../assets/png/buttons/button main (1).png";
+import enterC from "../../assets/png/buttons/button main (2).png";
 import {ButtonLink} from "../common/ButtonLink/ButtomLink";
 // @ts-ignore
 import GlitchText from 'react-glitch-effect/core/GlitchText';

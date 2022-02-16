@@ -36,6 +36,7 @@ export const Faq = () => {
         >
             <div className={style.inner}>
                 <img src={barrels} alt="" className={style.barrels}/>
+                
 
                 <h2 className={style.title} id="Faq">FAQ</h2>
                 <div className={style.items}>

@@ -9,7 +9,7 @@ import {Header} from "../A1_Header/Header";
 import {BurgerMenu} from "../A2_BurgerMenu/BurgerMenu";
 import clsx from "clsx";
 import {HomeNew} from "../B0_HomeNew/HomeNew";
-import sun from "../../assets/png/sun.png";
+import sun from "../../assets/png/sun2.png";
 import {throttle} from "./helper";
 import backWithoutAir from "../../assets/png/team-back-whithout-air.png";
 import backAir from "../../assets/png/team-back-air.png";

@@ -1,9 +1,9 @@
 import React, {FC} from "react";
 import style from "./socialIcon.module.scss";
 
-import metamaskD from "../../../assets/svg/buttons/metamask-d.svg";
-import metamaskH from "../../../assets/svg/buttons/metamask-h.svg";
-import metamaskC from "../../../assets/svg/buttons/metamask-c.svg";
+import metamaskD from "../../../assets/png/buttons/metamaskBtnIdle.png";
+import metamaskH from "../../../assets/png/buttons/metamaskBtnHover.png";
+import metamaskC from "../../../assets/png/buttons/metamaskBtnIPressed.png";
 
 import twitterD from "../../../assets/png/buttons/twitterBtnIdle.png";
 import twitterH from "../../../assets/png/buttons/twitterBtnHover.png";
@@ -13,9 +13,9 @@ import openSeaD from "../../../assets/svg/buttons/openSea-d.svg";
 import openSeaH from "../../../assets/svg/buttons/openSea-h.svg";
 import openSeaC from "../../../assets/svg/buttons/openSea-c.svg";
 
-import discordD from "../../../assets/svg/buttons/discord-d.svg";
-import discordH from "../../../assets/svg/buttons/discord-h.svg";
-import discordC from "../../../assets/svg/buttons/discord-c.svg";
+import discordD from "../../../assets/png/buttons/discordBtnIdle.png";
+import discordH from "../../../assets/png/buttons/discordBtnHover.png";
+import discordC from "../../../assets/png/buttons/discordBtnIPressed.png";
 
 
 import {ButtonLink} from "../ButtonLink/ButtomLink";
