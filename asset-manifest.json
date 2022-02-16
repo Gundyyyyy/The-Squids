@@ -1,6 +1,6 @@
 {
   "files": {
-    "main.css": "/The-Squids/static/css/main.e536033f.css",
+    "main.css": "/The-Squids/static/css/main.8afa3642.css",
     "main.js": "/The-Squids/static/js/main.1f1f97b0.js",
     "static/js/787.b4507953.chunk.js": "/The-Squids/static/js/787.b4507953.chunk.js",
     "static/media/rain.gif": "/The-Squids/static/media/rain.6b796b572a78035a1394.gif",
@@ -46,12 +46,12 @@
     "static/media/team-card-hover-mobile.svg": "/The-Squids/static/media/team-card-hover-mobile.7995b56ba955fef75aed.svg",
     "static/media/burger-menu-divider.svg": "/The-Squids/static/media/burger-menu-divider.d9af5ec4615353345b06.svg",
     "index.html": "/The-Squids/index.html",
-    "main.e536033f.css.map": "/The-Squids/static/css/main.e536033f.css.map",
+    "main.8afa3642.css.map": "/The-Squids/static/css/main.8afa3642.css.map",
     "main.1f1f97b0.js.map": "/The-Squids/static/js/main.1f1f97b0.js.map",
     "787.b4507953.chunk.js.map": "/The-Squids/static/js/787.b4507953.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.e536033f.css",
+    "static/css/main.8afa3642.css",
     "static/js/main.1f1f97b0.js"
   ]
 }
