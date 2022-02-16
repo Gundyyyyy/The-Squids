@@ -5,9 +5,9 @@ import metamaskD from "../../../assets/svg/buttons/metamask-d.svg";
 import metamaskH from "../../../assets/svg/buttons/metamask-h.svg";
 import metamaskC from "../../../assets/svg/buttons/metamask-c.svg";
 
-import twitterD from "../../../assets/svg/buttons/twitter-d.svg";
-import twitterH from "../../../assets/svg/buttons/twitter-h.svg";
-import twitterC from "../../../assets/svg/buttons/twitter-c.svg";
+import twitterD from "../../../assets/png/buttons/twitterBtnIdle.png";
+import twitterH from "../../../assets/png/buttons/twitterBtnHover.png";
+import twitterC from "../../../assets/png/buttons/twitterBtnIPressed.png";
 
 import openSeaD from "../../../assets/svg/buttons/openSea-d.svg";
 import openSeaH from "../../../assets/svg/buttons/openSea-h.svg";
