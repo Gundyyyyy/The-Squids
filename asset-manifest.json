@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/The-Squids/static/css/main.e536033f.css",
-    "main.js": "/The-Squids/static/js/main.9883e4f0.js",
+    "main.js": "/The-Squids/static/js/main.1f1f97b0.js",
     "static/js/787.b4507953.chunk.js": "/The-Squids/static/js/787.b4507953.chunk.js",
     "static/media/rain.gif": "/The-Squids/static/media/rain.6b796b572a78035a1394.gif",
     "static/media/slide3.gif": "/The-Squids/static/media/slide3.bc9d921cb3e558dcef77.gif",
@@ -28,9 +28,6 @@
     "static/media/connect-h.svg": "/The-Squids/static/media/connect-h.a708ca2ce535a85a9039cedda5770f2e.svg",
     "static/media/connect-d.svg": "/The-Squids/static/media/connect-d.9d792e80e141a7eb6dcedef52ef65ce0.svg",
     "static/media/connect-c.svg": "/The-Squids/static/media/connect-c.71147d45fad05b9a654c9630cdd126d0.svg",
-    "static/media/linkedIn-d.svg": "/The-Squids/static/media/linkedIn-d.fc1c8ce42189b5988426f0a58e11d3f8.svg",
-    "static/media/linkedIn-c.svg": "/The-Squids/static/media/linkedIn-c.7f5ec6f68e39df0873798088de926cce.svg",
-    "static/media/linkedIn-h.svg": "/The-Squids/static/media/linkedIn-h.48a991cd080f6aaa7d1b815588eb37b2.svg",
     "static/media/preloader.svg": "/The-Squids/static/media/preloader.e73b829207ecceec66b1ccc443b38d68.svg",
     "static/media/openSea-c.svg": "/The-Squids/static/media/openSea-c.ecaaf5f1f32b19a2b395fd4186915d0d.svg",
     "static/media/openSea-d.svg": "/The-Squids/static/media/openSea-d.11336378be3fea6d26420a7c6cf553c9.svg",
@@ -50,11 +47,11 @@
     "static/media/burger-menu-divider.svg": "/The-Squids/static/media/burger-menu-divider.d9af5ec4615353345b06.svg",
     "index.html": "/The-Squids/index.html",
     "main.e536033f.css.map": "/The-Squids/static/css/main.e536033f.css.map",
-    "main.9883e4f0.js.map": "/The-Squids/static/js/main.9883e4f0.js.map",
+    "main.1f1f97b0.js.map": "/The-Squids/static/js/main.1f1f97b0.js.map",
     "787.b4507953.chunk.js.map": "/The-Squids/static/js/787.b4507953.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.e536033f.css",
-    "static/js/main.9883e4f0.js"
+    "static/js/main.1f1f97b0.js"
   ]
 }
