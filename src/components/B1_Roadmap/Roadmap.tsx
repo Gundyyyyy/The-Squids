@@ -23,21 +23,21 @@ export const cards = [
     {
         icon1: icon1_1,
         icon2: icon1_2,
-        step: "Stage 1 - 50%",
+        step: "Stage 2 - 50%",
         title: "Let the fun begins",
         text: "Each enhanced humans have finally found a place to train. The games are ready to be played and the Genesis Squids are here to supervise them"
     },
     {
         icon1: icon2_1,
         icon2: icon2_2,
-        step: "Stage 1 - 75%",
+        step: "Stage 3 - 75%",
         title: "Winner Winner Chicken Dinner",
         text: "The winner of the first tournament has been designated, the new in-game token launched. We are now set to make more games, rules and  prizes."
     },
     {
         icon1: icon3_1,
         icon2: icon3_2,
-        step: "Stage 1 - 100%",
+        step: "Stage 4 - 100%",
         title: "Total domination",
         text: "The Squids have proven to be extremely strong in their own environment. Will they prevail in the metaverse ? Only one way to find out."
     },
