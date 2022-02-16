@@ -1,14 +1,14 @@
 import React from "react";
 import style from "./roadmap.module.scss";
 import "./animation.scss"
-import icon0_1 from "../../assets/png/roadmap-icon-0-1.png";
-import icon1_1 from "../../assets/png/roadmap-icon-1-1.png";
-import icon2_1 from "../../assets/png/roadmap-icon-2-1.png";
-import icon3_1 from "../../assets/png/roadmap-icon-3-1.png";
-import icon0_2 from "../../assets/png/roadmap-icon-0-2.png";
-import icon1_2 from "../../assets/png/roadmap-icon-1-2.png";
-import icon2_2 from "../../assets/png/roadmap-icon-2-2.png";
-import icon3_2 from "../../assets/png/roadmap-icon-3-2.png";
+import icon0_1 from "../../assets/png/roadmap/becker_yellow.png";
+import icon1_1 from "../../assets/png/roadmap/dna_yellow.png";
+import icon2_1 from "../../assets/png/roadmap/erlenmeyer_yellow.png";
+import icon3_1 from "../../assets/png/roadmap/microscope_yellow.png";
+import icon0_2 from "../../assets/png/roadmap/becker_purple.png";
+import icon1_2 from "../../assets/png/roadmap/dna_purple.png";
+import icon2_2 from "../../assets/png/roadmap/erlenmeyer_purple.png";
+import icon3_2 from "../../assets/png/roadmap/microscope_purple.png";
 import clsx from "clsx";
 
 
