@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/The-Squids/static/css/main.42d37bf3.css",
-    "main.js": "/The-Squids/static/js/main.0b63516b.js",
+    "main.js": "/The-Squids/static/js/main.12cc7f70.js",
     "static/js/787.b4507953.chunk.js": "/The-Squids/static/js/787.b4507953.chunk.js",
     "static/media/rain.gif": "/The-Squids/static/media/rain.6b796b572a78035a1394.gif",
     "static/media/slide3.gif": "/The-Squids/static/media/slide3.bc9d921cb3e558dcef77.gif",
@@ -44,9 +44,6 @@
     "static/media/openSea-c.svg": "/The-Squids/static/media/openSea-c.ecaaf5f1f32b19a2b395fd4186915d0d.svg",
     "static/media/openSea-d.svg": "/The-Squids/static/media/openSea-d.11336378be3fea6d26420a7c6cf553c9.svg",
     "static/media/openSea-h.svg": "/The-Squids/static/media/openSea-h.1b6fc803820db0510cc55d93b9954932.svg",
-    "static/media/twitter-d.svg": "/The-Squids/static/media/twitter-d.232d1a1b4c84c3675f41f93073ec5f21.svg",
-    "static/media/twitter-c.svg": "/The-Squids/static/media/twitter-c.53fcfbf8639abf748fcd89188f1a6abe.svg",
-    "static/media/twitter-h.svg": "/The-Squids/static/media/twitter-h.52c586ce84ccc5ee835bb419a047ae72.svg",
     "static/media/roadmap-card-default.svg": "/The-Squids/static/media/roadmap-card-default.7fb5f46b6cbdde601b15.svg",
     "static/media/roadmap-card-hover.svg": "/The-Squids/static/media/roadmap-card-hover.7ef11e548b5bd4d87ce9.svg",
     "static/media/team-card-default.svg": "/The-Squids/static/media/team-card-default.0503e32d0af2a7882c5b.svg",
@@ -61,11 +58,11 @@
     "static/media/team-card-hover-mobile.svg": "/The-Squids/static/media/team-card-hover-mobile.7995b56ba955fef75aed.svg",
     "index.html": "/The-Squids/index.html",
     "main.42d37bf3.css.map": "/The-Squids/static/css/main.42d37bf3.css.map",
-    "main.0b63516b.js.map": "/The-Squids/static/js/main.0b63516b.js.map",
+    "main.12cc7f70.js.map": "/The-Squids/static/js/main.12cc7f70.js.map",
     "787.b4507953.chunk.js.map": "/The-Squids/static/js/787.b4507953.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.42d37bf3.css",
-    "static/js/main.0b63516b.js"
+    "static/js/main.12cc7f70.js"
   ]
 }
