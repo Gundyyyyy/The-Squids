@@ -2,9 +2,9 @@ import {ICard} from "./Team";
 import React, {FC} from "react";
 import style from "./card.module.scss";
 import {ButtonLink} from "../common/ButtonLink/ButtomLink";
-import imgD from "../../assets/svg/buttons/linkedIn-d.svg";
-import imgH from "../../assets/svg/buttons/linkedIn-h.svg";
-import imgC from "../../assets/svg/buttons/linkedIn-c.svg";
+import imgD from "../../assets/png/buttons/In.png";
+import imgH from "../../assets/png/buttons/Frame 481575.png";
+import imgC from "../../assets/png/buttons/Frame 481577.png";
 
 export const Card: FC<ICard> = ({
                                     img,
