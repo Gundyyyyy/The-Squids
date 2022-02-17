@@ -1,16 +1,16 @@
 import React, {useEffect, useState} from "react";
 import style from "./slider.module.scss"
-import slide0 from "../../assets/gif/slide0.gif";
-import slide1 from "../../assets/gif/slide1.gif";
-import slide2 from "../../assets/gif/slide2.gif";
-import slide3 from "../../assets/gif/slide3.gif";
-import slide4 from "../../assets/gif/slide4.gif";
-import slide5 from "../../assets/gif/slide5.gif";
+import slide0 from "../../assets/gif/ryu.gif";
+import slide1 from "../../assets/gif/sherif.gif";
+import slide2 from "../../assets/gif/megaman.gif";
+import slide3 from "../../assets/gif/geisha.gif";
+import slide4 from "../../assets/gif/female astraunaut.gif";
+import slide5 from "../../assets/gif/female adventurer.gif";
+import slide6 from "../../assets/gif/tracksuit.gif";
 import {Swiper, SwiperSlide} from "swiper/react";
 import 'swiper/swiper-bundle.min.css';
 import 'swiper/swiper.min.css';
 import SwiperCore, {Controller} from 'swiper';
-import slide6 from "../../assets/gif/slide6.gif";
 import clsx from "clsx";
 
 const slides = [
