@@ -1,23 +1,23 @@
 {
   "files": {
-    "main.css": "/The-Squids/static/css/main.a4d5faf2.css",
-    "main.js": "/The-Squids/static/js/main.1f1f97b0.js",
+    "main.css": "/The-Squids/static/css/main.feeca309.css",
+    "main.js": "/The-Squids/static/js/main.869d3002.js",
     "static/js/787.b4507953.chunk.js": "/The-Squids/static/js/787.b4507953.chunk.js",
     "static/media/rain.gif": "/The-Squids/static/media/rain.6b796b572a78035a1394.gif",
-    "static/media/slide3.gif": "/The-Squids/static/media/slide3.bc9d921cb3e558dcef77.gif",
+    "static/media/female adventurer.gif": "/The-Squids/static/media/female adventurer.57b0e45fd43849c2c5b2.gif",
     "static/media/home-back-mobile.gif": "/The-Squids/static/media/home-back-mobile.d07a08aa4de7177a341b.gif",
     "static/media/home-back.gif": "/The-Squids/static/media/home-back.5fd060cdcd57670f389f.gif",
     "static/media/clouds.gif": "/The-Squids/static/media/clouds.600917fcac2019cb3e9f.gif",
-    "static/media/slide4.gif": "/The-Squids/static/media/slide4.145f73d417f5f694faad.gif",
+    "static/media/megaman.gif": "/The-Squids/static/media/megaman.de0dcc1ec2b3aef533ac.gif",
+    "static/media/sherif.gif": "/The-Squids/static/media/sherif.e12764cfe3d669546fd2.gif",
     "static/media/team-back-air.png": "/The-Squids/static/media/team-back-air.59be4c6ef92c340b0383.png",
-    "static/media/slide2.gif": "/The-Squids/static/media/slide2.4df44485520aa7e75aab.gif",
-    "static/media/slide5.gif": "/The-Squids/static/media/slide5.5959dc6d766012fbfb66.gif",
+    "static/media/geisha.gif": "/The-Squids/static/media/geisha.5bbf4d7e73c3297932cb.gif",
+    "static/media/female astraunaut.gif": "/The-Squids/static/media/female astraunaut.35d25f6f54986a64226b.gif",
     "static/media/team-back-whithout-air.png": "/The-Squids/static/media/team-back-whithout-air.d6d60cc71de2248dd747.png",
+    "static/media/ryu.gif": "/The-Squids/static/media/ryu.ad459a83340eeccb663d.gif",
     "static/media/burger-menu-back.png": "/The-Squids/static/media/burger-menu-back.c3e3a1e82bc573aa2aa1.png",
-    "static/media/slide6.gif": "/The-Squids/static/media/slide6.806782c679d9d88cbaa6.gif",
+    "static/media/tracksuit.gif": "/The-Squids/static/media/tracksuit.913dcb133b58b89c3b47.gif",
     "static/media/barrels.gif": "/The-Squids/static/media/barrels.ceb21ad562952184027e.gif",
-    "static/media/slide0.gif": "/The-Squids/static/media/slide0.95e433f60c18211c3e6c.gif",
-    "static/media/slide1.gif": "/The-Squids/static/media/slide1.9f962f4062429db3fc7d.gif",
     "static/media/team-person-h.png": "/The-Squids/static/media/team-person-h.6bb7dfac860de638c714.png",
     "static/media/logo_withoutSquid_4X.png": "/The-Squids/static/media/logo_withoutSquid_4X.d0e8e96c48fa6dab5020.png",
     "static/media/team-person-d.png": "/The-Squids/static/media/team-person-d.d966c151fdcd88037203.png",
@@ -46,12 +46,12 @@
     "static/media/team-card-hover-mobile.svg": "/The-Squids/static/media/team-card-hover-mobile.7995b56ba955fef75aed.svg",
     "static/media/burger-menu-divider.svg": "/The-Squids/static/media/burger-menu-divider.d9af5ec4615353345b06.svg",
     "index.html": "/The-Squids/index.html",
-    "main.a4d5faf2.css.map": "/The-Squids/static/css/main.a4d5faf2.css.map",
-    "main.1f1f97b0.js.map": "/The-Squids/static/js/main.1f1f97b0.js.map",
+    "main.feeca309.css.map": "/The-Squids/static/css/main.feeca309.css.map",
+    "main.869d3002.js.map": "/The-Squids/static/js/main.869d3002.js.map",
     "787.b4507953.chunk.js.map": "/The-Squids/static/js/787.b4507953.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.a4d5faf2.css",
-    "static/js/main.1f1f97b0.js"
+    "static/css/main.feeca309.css",
+    "static/js/main.869d3002.js"
   ]
 }
