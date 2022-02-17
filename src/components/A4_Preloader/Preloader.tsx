@@ -1,6 +1,6 @@
 import React, {useEffect, useState} from "react";
 import style from "./preloader.module.scss"
-import preloader from "../../assets/svg/preloader.svg"
+import preloader from "../../assets/png/tube 1.png"
 import clsx from "clsx";
 
 export const Preloader = () => {

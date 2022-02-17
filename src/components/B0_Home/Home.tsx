@@ -32,7 +32,7 @@ export const Home: FC<IHome> = ({onClickHandler}) => {
                             imgHover={enterH}
                             imgClick={enterC}
                             className={style.enterButton}
-                            onClickHandler={onClickHandler}
+                            //onClickHandler={onClickHandler}
                 />
 
                 <div className={style.icons}>

@@ -23,7 +23,7 @@ export const Card: FC<ICard> = ({
             <ButtonLink imgDefault={imgD}
                         imgHover={imgH}
                         imgClick={imgC}
-                        href={href}
+                        href={""}
                         className={style.link}
             />
         </div>

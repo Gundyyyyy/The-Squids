@@ -42,25 +42,25 @@ export const icons: IIcons = {
         default: metamaskD,
         hover: metamaskH,
         click: metamaskC,
-        href: "#",
+        href: "",
     },
     "twitter": {
         default: twitterD,
         hover: twitterH,
         click: twitterC,
-        href: "#",
+        href: "",
     },
     "openSea": {
         default: openSeaD,
         hover: openSeaH,
         click: openSeaC,
-        href: "#",
+        href: "",
     },
     "discord": {
         default: discordD,
         hover: discordH,
         click: discordC,
-        href: "#",
+        href: "",
     },
 }
 

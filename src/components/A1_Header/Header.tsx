@@ -36,7 +36,7 @@ export const Header: FC<IHeader> = ({burgerMenuIsOpen, onClickHandler, dir,heade
                 [style.inner_transparent]: headerIsTransparent,
             })}>
 
-                <a href="#" className={style.logo}>
+                <a href="https://gundyyyyy.github.io/The-Squids/" className={style.logo}>
                     <img src={logo} alt=""/>
                 </a>
 
@@ -60,6 +60,7 @@ export const Header: FC<IHeader> = ({burgerMenuIsOpen, onClickHandler, dir,heade
                                 imgHover={connectH}
                                 imgClick={connectC}
                                 className={style.connectBtn}
+                                //href=""
                     />
 
                 </div>
