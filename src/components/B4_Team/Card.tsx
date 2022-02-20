@@ -7,6 +7,7 @@ import { ButtonLink } from '../common/ButtonLink/ButtomLink';
 
 export const Card: FC<ICard> = ({ photos, name, job, description, button }) => {
   const [isHovered, setIsHovered] = useState(false);
+  
 
   return (
     <div className={style.card} onMouseOver={() => setIsHovered(true)} onMouseOut={() => setIsHovered(false)}>
