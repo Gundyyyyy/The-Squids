@@ -30,6 +30,7 @@ export interface ICard {
   photos: {
     default: string;
     hovered: string;
+    clicked: string;
   };
   name: string;
   job: string;
@@ -49,6 +50,7 @@ const persons: ICard[] = [
     photos: {
       default: person1,
       hovered: person1H,
+      clicked: person1H,
     },
     name: 'Theo “Gundy” Escriva',
     job: 'Project Lead',
@@ -67,6 +69,7 @@ const persons: ICard[] = [
     photos: {
       default: person1,
       hovered: person1H,
+      clicked: person1H,
     },
     name: 'Zozimo Neto ',
     job: 'Artist',
@@ -85,6 +88,7 @@ const persons: ICard[] = [
     photos: {
       default: person1,
       hovered: person1H,
+      clicked: person1H,
     },
     name: 'Jonas “Sennec” Friesslich',
     job: 'Software engineer',
@@ -103,6 +107,7 @@ const persons: ICard[] = [
     photos: {
       default: person1,
       hovered: person1H,
+      clicked: person1H,
     },
     name: 'Dmitrij “Dimfred” Vinokour',
     job: 'Blockchain Developer',
@@ -121,6 +126,7 @@ const persons: ICard[] = [
     photos: {
       default: person1,
       hovered: person1H,
+      clicked: person1H,
     },
     name: 'Anatoliy Demyanchuk',
     job: 'UI/UX designer',
@@ -139,6 +145,7 @@ const persons: ICard[] = [
     photos: {
       default: person1,
       hovered: person1H,
+      clicked: person1H,
     },
     name: 'Moderators',
     job: 'Community moderators',
