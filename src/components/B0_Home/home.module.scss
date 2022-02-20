@@ -35,6 +35,7 @@
     }
     .title {
       @include PressStart();
+      color: #fff;
       font-size: 22px;
       line-height: 145%;
       text-align: center;

@@ -23,7 +23,7 @@ export const Preloader = () => {
         return () => {
             clearTimeout(timeId);
         }
-    }, [time]);
+    }, [time, durationStep, timeIsOver]);
 
 
     return (

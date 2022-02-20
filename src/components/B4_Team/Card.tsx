@@ -1,31 +1,26 @@
-import {ICard} from "./Team";
-import React, {FC} from "react";
-import style from "./card.module.scss";
-import {ButtonLink} from "../common/ButtonLink/ButtomLink";
-import imgD from "../../assets/png/buttons/In.png";
-import imgH from "../../assets/png/buttons/Frame 481575.png";
-import imgC from "../../assets/png/buttons/Frame 481577.png";
+import { ICard } from './Team';
+import React, { FC, useState } from 'react';
 
-export const Card: FC<ICard> = ({
-                                    img,
-                                    name,
-                                    job,
-                                    text,
-                                    href
-                                }) => {
-    return (
-        <div className={style.card}>
+import style from './card.module.scss';
 
-            <div className={style.person}/>
-            <p className={style.name}>{name}</p>
-            <p className={style.job}>{job}</p>
-            <p className={style.text}>{text}</p>
-            <ButtonLink imgDefault={imgD}
-                        imgHover={imgH}
-                        imgClick={imgC}
-                        href={""}
-                        className={style.link}
-            />
-        </div>
-    )
-}
+import { ButtonLink } from '../common/ButtonLink/ButtomLink';
+
+export const Card: FC<ICard> = ({ photos, name, job, description, button }) => {
+  const [isHovered, setIsHovered] = useState(false);
+
+  return (
+    <div className={style.card} onMouseOver={() => setIsHovered(true)} onMouseOut={() => setIsHovered(false)}>
+      <div className={style.person} style={{ backgroundImage: `url(${isHovered ? photos.hovered : photos.default})` }} />
+      <p className={style.name}>{name}</p>
+      <p className={style.job}>{job}</p>
+      <p className={style.text}>{description}</p>
+      <ButtonLink
+        imgDefault={button.icons.default}
+        imgHover={button.icons.hovered}
+        imgClick={button.icons.clicked}
+        href={button.href}
+        className={style.link}
+      />
+    </div>
+  );
+};

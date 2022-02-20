@@ -15,7 +15,7 @@ import mintNowDefault from "../../assets/svg/buttons/mint-now-d.svg";
 import mintNowHover from "../../assets/svg/buttons/mint-now-h.svg";
 import mintNowClick from "../../assets/svg/buttons/mint-now-c.svg";
 
-import {convertToTwoDigit, dateStart, getHours, getMins, getSecs} from "./helpers";
+import {convertToTwoDigit, dateStart, getHours, getMins} from "./helpers";
 import {ButtonLink} from "../common/ButtonLink/ButtomLink";
 
 const texts = [
@@ -42,7 +42,7 @@ export const HomeNew = () => {
             setTime(time);
             setStart(true);
         }
-    }, []);
+    }, [timeIsOver]);
 
     useEffect(() => {
         const timeId = setTimeout(() => {
@@ -58,7 +58,7 @@ export const HomeNew = () => {
         return () => {
             clearTimeout(timeId);
         }
-    }, [time]);
+    }, [time, start]);
 
 
     return (

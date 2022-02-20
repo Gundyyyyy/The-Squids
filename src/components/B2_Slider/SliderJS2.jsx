@@ -1,4 +1,4 @@
-import React, {useEffect, useState} from "react";
+import React, { useState } from "react";
 import style from "./slider.module.scss"
 import slide0 from "../../assets/gif/ryu.gif";
 import slide1 from "../../assets/gif/sherif.gif";

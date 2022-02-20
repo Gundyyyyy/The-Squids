@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/The-Squids/static/css/main.d6b5717f.css",
-    "main.js": "/The-Squids/static/js/main.869d3002.js",
+    "main.js": "/The-Squids/static/js/main.20168310.js",
     "static/js/787.b4507953.chunk.js": "/The-Squids/static/js/787.b4507953.chunk.js",
     "static/media/rain.gif": "/The-Squids/static/media/rain.6b796b572a78035a1394.gif",
     "static/media/female adventurer.gif": "/The-Squids/static/media/female adventurer.57b0e45fd43849c2c5b2.gif",
@@ -28,7 +28,6 @@
     "static/media/connect-h.svg": "/The-Squids/static/media/connect-h.a708ca2ce535a85a9039cedda5770f2e.svg",
     "static/media/connect-d.svg": "/The-Squids/static/media/connect-d.9d792e80e141a7eb6dcedef52ef65ce0.svg",
     "static/media/connect-c.svg": "/The-Squids/static/media/connect-c.71147d45fad05b9a654c9630cdd126d0.svg",
-    "static/media/preloader.svg": "/The-Squids/static/media/preloader.e73b829207ecceec66b1ccc443b38d68.svg",
     "static/media/openSea-c.svg": "/The-Squids/static/media/openSea-c.ecaaf5f1f32b19a2b395fd4186915d0d.svg",
     "static/media/openSea-d.svg": "/The-Squids/static/media/openSea-d.11336378be3fea6d26420a7c6cf553c9.svg",
     "static/media/openSea-h.svg": "/The-Squids/static/media/openSea-h.1b6fc803820db0510cc55d93b9954932.svg",
@@ -47,11 +46,11 @@
     "static/media/burger-menu-divider.svg": "/The-Squids/static/media/burger-menu-divider.d9af5ec4615353345b06.svg",
     "index.html": "/The-Squids/index.html",
     "main.d6b5717f.css.map": "/The-Squids/static/css/main.d6b5717f.css.map",
-    "main.869d3002.js.map": "/The-Squids/static/js/main.869d3002.js.map",
+    "main.20168310.js.map": "/The-Squids/static/js/main.20168310.js.map",
     "787.b4507953.chunk.js.map": "/The-Squids/static/js/787.b4507953.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.d6b5717f.css",
-    "static/js/main.869d3002.js"
+    "static/js/main.20168310.js"
   ]
 }
