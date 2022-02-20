@@ -48,7 +48,7 @@ export const icons: IIcons = {
         default: twitterD,
         hover: twitterH,
         click: twitterC,
-        href: "",
+        href: "https://twitter.com/TheSquids_NFT"
     },
     "openSea": {
         default: openSeaD,

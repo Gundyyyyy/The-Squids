@@ -145,7 +145,7 @@ const persons: ICard[] = [
     description:
       'They will be designed during the first phase of the project. Early enthusiasts who desire to help the project reach it’s full potential and help the community.',
     button: {
-      href: 'https://gundyyyyy.github.io/The-Squids/',
+      href: 'https://twitter.com/TheSquids_NFT',
       icons: {
         default: twitterD,
         hovered: twitterH,
