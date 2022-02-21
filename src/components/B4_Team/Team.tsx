@@ -4,8 +4,23 @@ import style from './team.module.scss';
 import { Card } from './Card';
 import { Swiper, SwiperSlide } from 'swiper/react';
 
-import person1 from '../../assets/png/team-person.png';
-import person1H from '../../assets/png/team-person-h.png';
+import theoidle from '../../assets/png/Theo-idle.png';
+import theohover from '../../assets/png/Theo-Hover.png';
+
+import dimiidle from '../../assets/png/Dimi-idle.png';
+import dimihover from '../../assets/png/Dimi-Hover.png';
+
+import Jonasidle from '../../assets/png/Jonas-idle.png';
+import Jonashover from '../../assets/png/Jonas-Hover.png';
+
+import Zozimoidle from '../../assets/png/Joso-Idle.png';
+import Zozimohover from '../../assets/png/Joso-Hover.png';
+
+import Anatolyidle from '../../assets/png/Anatoly-Idle.png';
+import Anatolyhover from '../../assets/png/Anatoly-Hover.png';
+
+import Modidle from '../../assets/png/Mod-Idle.png';
+import Modhover from '../../assets/png/Mod-Hover.png';
 
 import githubD from '../../assets/png/buttons/githubD.png';
 import githubH from '../../assets/png/buttons/githubH.png';
@@ -30,7 +45,7 @@ export interface ICard {
   photos: {
     default: string;
     hovered: string;
-    clicked: string;
+    
   };
   name: string;
   job: string;
@@ -48,9 +63,9 @@ export interface ICard {
 const persons: ICard[] = [
   {
     photos: {
-      default: person1,
-      hovered: person1H,
-      clicked: person1H,
+      default: theoidle,
+      hovered: theohover,
+      
     },
     name: 'Theo “Gundy” Escriva',
     job: 'Project Lead',
@@ -67,9 +82,9 @@ const persons: ICard[] = [
   },
   {
     photos: {
-      default: person1,
-      hovered: person1H,
-      clicked: person1H,
+      default: Zozimoidle,
+      hovered: Zozimohover,
+      
     },
     name: 'Zozimo Neto ',
     job: 'Artist',
@@ -86,9 +101,9 @@ const persons: ICard[] = [
   },
   {
     photos: {
-      default: person1,
-      hovered: person1H,
-      clicked: person1H,
+      default: Jonasidle,
+      hovered: Jonashover,
+      
     },
     name: 'Jonas “Sennec” Friesslich',
     job: 'Software engineer',
@@ -105,9 +120,9 @@ const persons: ICard[] = [
   },
   {
     photos: {
-      default: person1,
-      hovered: person1H,
-      clicked: person1H,
+      default: dimiidle,
+      hovered: dimihover,
+      
     },
     name: 'Dmitrij “Dimfred” Vinokour',
     job: 'Blockchain Developer',
@@ -124,9 +139,9 @@ const persons: ICard[] = [
   },
   {
     photos: {
-      default: person1,
-      hovered: person1H,
-      clicked: person1H,
+      default: Anatolyidle,
+      hovered: Anatolyhover,
+     
     },
     name: 'Anatoliy Demyanchuk',
     job: 'UI/UX designer',
@@ -143,9 +158,9 @@ const persons: ICard[] = [
   },
   {
     photos: {
-      default: person1,
-      hovered: person1H,
-      clicked: person1H,
+      default: Modidle,
+      hovered: Modhover,
+      
     },
     name: 'Moderators',
     job: 'Community moderators',
