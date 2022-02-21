@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/static/css/main.d3def13c.css",
-    "main.js": "/static/js/main.e2ce2351.js",
+    "main.js": "/static/js/main.bf9d4caa.js",
     "static/js/787.b4507953.chunk.js": "/static/js/787.b4507953.chunk.js",
     "static/media/rain.gif": "/static/media/rain.6b796b572a78035a1394.gif",
     "static/media/female adventurer.gif": "/static/media/female adventurer.57b0e45fd43849c2c5b2.gif",
@@ -16,10 +16,20 @@
     "static/media/team-back-whithout-air.png": "/static/media/team-back-whithout-air.d6d60cc71de2248dd747.png",
     "static/media/ryu.gif": "/static/media/ryu.ad459a83340eeccb663d.gif",
     "static/media/burger-menu-back.png": "/static/media/burger-menu-back.c3e3a1e82bc573aa2aa1.png",
+    "static/media/Theo-idle.png": "/static/media/Theo-idle.2f84ba908e5f9d8143c1.png",
+    "static/media/Jonas-idle.png": "/static/media/Jonas-idle.c64d9d776ad276bb4b89.png",
     "static/media/tracksuit.gif": "/static/media/tracksuit.913dcb133b58b89c3b47.gif",
+    "static/media/Joso-Idle.png": "/static/media/Joso-Idle.41369a11be61f5ddd517.png",
+    "static/media/Mod-Idle.png": "/static/media/Mod-Idle.b3848ce57036c47d85e8.png",
     "static/media/barrels.gif": "/static/media/barrels.ceb21ad562952184027e.gif",
-    "static/media/team-person.png": "/static/media/team-person.782329d6d62bbbb5dee5.png",
-    "static/media/team-person-h.png": "/static/media/team-person-h.1a26f874263db9879f79.png",
+    "static/media/Anatoly-Idle.png": "/static/media/Anatoly-Idle.5a44aa90e2726fc59d29.png",
+    "static/media/Dimi-idle.png": "/static/media/Dimi-idle.d2f81a5bdfffa8f9e3dd.png",
+    "static/media/Dimi-Hover.png": "/static/media/Dimi-Hover.852fd17e790070c940c8.png",
+    "static/media/Theo-Hover.png": "/static/media/Theo-Hover.91aaacf093daec01ba62.png",
+    "static/media/Jonas-Hover.png": "/static/media/Jonas-Hover.7d3448e481f57c0e9271.png",
+    "static/media/Anatoly-Hover.png": "/static/media/Anatoly-Hover.9362e553d1dce668a4a2.png",
+    "static/media/Joso-Hover.png": "/static/media/Joso-Hover.6f8c6bf8b06f08fc5216.png",
+    "static/media/Mod-Hover.png": "/static/media/Mod-Hover.26d1470b0e2b4737bd2b.png",
     "static/media/logo_withoutSquid_4X.png": "/static/media/logo_withoutSquid_4X.d0e8e96c48fa6dab5020.png",
     "static/media/mint-now-c.svg": "/static/media/mint-now-c.92bde62eb2a5f3c9c5dce8c2f116486d.svg",
     "static/media/mint-now-d.svg": "/static/media/mint-now-d.ad2c8678d89d037ff14feeada84a0705.svg",
@@ -45,11 +55,11 @@
     "static/media/burger-menu-divider.svg": "/static/media/burger-menu-divider.d9af5ec4615353345b06.svg",
     "index.html": "/index.html",
     "main.d3def13c.css.map": "/static/css/main.d3def13c.css.map",
-    "main.e2ce2351.js.map": "/static/js/main.e2ce2351.js.map",
+    "main.bf9d4caa.js.map": "/static/js/main.bf9d4caa.js.map",
     "787.b4507953.chunk.js.map": "/static/js/787.b4507953.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.d3def13c.css",
-    "static/js/main.e2ce2351.js"
+    "static/js/main.bf9d4caa.js"
   ]
 }
