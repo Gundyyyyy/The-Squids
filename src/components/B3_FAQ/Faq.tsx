@@ -7,7 +7,7 @@ import {Btn} from "./Btn/Btn";
 const items = [
     {
         title: "What are the SQUIDS ?",
-        text: "The squids are a collection of 10.000 NFT's. Made out of modified human DNA, this enhanced specie is capable of playing all sorts of games on the metaverse. Each of those unique characters have equal chance at winning the games and live debt free.",
+        text: "The squids are a collection of 10.000 NFTs. Made out of modified human DNA, this enhanced specie is capable of playing all sorts of games on the metaverse. Each of those unique characters have an equal chance at winning the games and live debt free.",
     },
     {
         title: "How can I get a Squid ?",
@@ -15,15 +15,15 @@ const items = [
     },
     {
         title: "What are the Genesis Squids ?",
-        text: "The Genesis Squids are part of the Squid collection. 1000 Genesis and 9000 Regular Squids will be available to mint. They will however hold some special power. You will be able to have a discount for the tournaments. As well as 3x more voting power when choosing games. And finally, beeing able to watch replays of the games to insure the security of the tournaments.",
+        text: "The Genesis Squids are part of the Squid collection. 1000 Genesis and 9000 Regular Squids will be available to mint. They will, however hold some special power. You will be able to have a discount for the tournaments. As well as 3x more voting power when choosing games. And finally, being able to watch replays of the games to insure the security of the tournaments.",
     },
     {
         title: "What are the tournaments ?",
-        text: "After getting your hand on a SQUID nft, you will have access to a special section called “Tournaments”. Each tournament will last 10 Days with 5 mini games in total. You will have an equal chance at winning the games and a possibility to split the winning money prize after each game or eliminate each players until only 1 remains.",
+        text: "After getting your hand on a SQUID nft, you will have access to a special section called “Tournaments”. Each tournament will last 10 Days with 5 mini games in total. You will have an equal chance at winning the games and a possibility to split the winning money prize after each game or eliminate each player until only 1 remains.",
     },
     {
-        title: "More NFT’s = Higher success ?",
-        text: "Each NFT’s have equal chance at winning a tournament. You will however get certain discounts by staking multiple of them as well as be able to play as many times as the number of NFT’s you hold. Make sure to contact us on discord if you have more questions.",
+        title: "More NFTs = Higher success ?",
+        text: "Each NFTs have an equal chance at winning a tournament. You will however get certain discounts by stacking multiple of them as well as be able to play as many times as the number of NFTs you hold. Make sure to contact us on discord if you have more questions.",
     },
 ];
 

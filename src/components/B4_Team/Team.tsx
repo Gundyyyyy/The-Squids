@@ -105,10 +105,10 @@ const persons: ICard[] = [
       hovered: Jonashover,
       
     },
-    name: 'Jonas “Sennec” Friesslich',
+    name: 'Jonas “Fugashu” Friesslich',
     job: 'Software engineer',
     description:
-      'German software engineer working in the medical sector, Jonas is also a c++ university tutor and blockchain enthousiast',
+      'German software engineer working in the medical sector, Jonas is also a c++ university tutor and blockchain enthusiast',
     button: {
       href: 'https://github.com/Fugashu',
       icons: {
@@ -127,7 +127,7 @@ const persons: ICard[] = [
     name: 'Dmitrij “Dimfred” Vinokour',
     job: 'Blockchain Developer',
     description:
-      'Software developer from Germany, Dimi has been working in various projects in the blockchain space since 3years. ',
+      'Software developer from Germany, Dimi has been working on various projects in the blockchain space since 3years. ',
     button: {
       href: 'https://github.com/dimfred',
       icons: {
@@ -165,7 +165,7 @@ const persons: ICard[] = [
     name: 'Moderators',
     job: 'Community moderators',
     description:
-      'They will be designed during the first phase of the project. Early enthusiasts who desire to help the project reach it’s full potential and help the community.',
+      'They will be designed during the first phase of the project. Early enthusiasts who desire to help the project reach its full potential and help the community.',
     button: {
       href: 'https://twitter.com/TheSquids_NFT',
       icons: {
