@@ -7,7 +7,7 @@ import {Btn} from "./Btn/Btn";
 const items = [
     {
         title: "What are the SQUIDS ?",
-        text: "The squids are a collection of 10.000 NFTs. Made out of modified human DNA, this enhanced specie is capable of playing all sorts of games on the metaverse. Each of those unique characters have an equal chance at winning the games and live debt free.",
+        text: "The squids are a collection of 9'999 NFTs. Made out of modified human DNA, this enhanced specie is capable of playing all sorts of games on the metaverse. Each of those unique characters have an equal chance at winning the games and live debt free.",
     },
     {
         title: "How can I get a Squid ?",
@@ -15,7 +15,7 @@ const items = [
     },
     {
         title: "What are the Genesis Squids ?",
-        text: "The Genesis Squids are part of the Squid collection. 1000 Genesis and 9000 Regular Squids will be available to mint. They will, however hold some special power. You will be able to have a discount for the tournaments. As well as 3x more voting power when choosing games. And finally, being able to watch replays of the games to insure the security of the tournaments.",
+        text: "The Genesis Squids are part of the Squid collection. 1000 Genesis and 8999 Regular Squids will be available to mint. They will, however hold some special power. You will be able to have a discount for the tournaments. As well as 3x more voting power when choosing games. And finally, being able to watch replays of the games to insure the security of the tournaments.",
     },
     {
         title: "What are the tournaments ?",
