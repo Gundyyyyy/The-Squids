@@ -7,7 +7,7 @@ import {Btn} from "./Btn/Btn";
 const items = [
     {
         title: "What are The Squids?",
-        text: "The Squids are a species consisting of 10,000 humans with altered DNA, and they love to play games. Each individual has an equal chance at winning the games and earning rewards.",
+        text: "The Squids are a species consisting of 1,000 humans with altered DNA, and they love to play games. Each individual has an equal chance at winning the games and earning rewards.",
     },
     {
         title: "How can I get a Squid?",
